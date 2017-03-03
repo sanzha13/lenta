@@ -1,0 +1,6 @@
+ru/sanzha/lenta/xml/XmlParser.class
+Main.class
+ru/sanzha/lenta/view/View.class
+ru/sanzha/lenta/xml/DataSource.class
+ru/sanzha/lenta/view/ConsoleView.class
+ru/sanzha/lenta/xml/HttpsDataSource.class
